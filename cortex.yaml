@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: Ghissuesplugin
+  description: ""
+  x-cortex-tag: ghissuesplugin
+  x-cortex-git:
+    github:
+      repository: cremerica/GHIssuesPlugin
+  x-cortex-custom-metadata:
+    cortex-template-version: 0.1.0
+    cortex-generated-timestamp: 2023-07-12T23:47:22.561626061
